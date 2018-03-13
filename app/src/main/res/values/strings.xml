@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WifiInfoReader</string>
+
+    <string name="wifi_update" translatable="false">Refresh stats</string>
+    <string name="wifi_state_label" translatable="false">Wi-Fi state:</string>
+    <string name="network_state_label" translatable="false">Network state:</string>
+    <string name="supplicant_state_label" translatable="false">Supplicant state:</string>
+    <string name="rssi_label" translatable="false">RSSI:</string>
+    <string name="bssid_label" translatable="false">BSSID:</string>
+    <string name="ssid_label" translatable="false">SSID:</string>
+    <string name="hidden_ssid_label" translatable="false">Hidden SSID:</string>
+    <string name="ipaddr_label" translatable="false">IPaddr:</string>
+    <string name="macaddr_label" translatable="false">MAC addr:</string>
+    <string name="networkid_label" translatable="false">Network ID:</string>
+    <string name="link_speed_label" translatable="false">Link speed:</string>
+    <string name="scan_list_label" translatable="false">Scan results:</string>
+    <string name="ping_test_label">Run ping test</string>
+    <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
+    <string name="radio_info_http_client_test">HTTP Client test:</string>
+
+    <!-- wifi state values-->
+    <!-- Do not translate. Used for diagnostic screens, precise translation is not necessary -->
+    <string name="wifi_state_disabling" translatable="false">Disabling</string>
+    <!-- Do not translate. Used for diagnostic screens, precise translation is not necessary -->
+    <string name="wifi_state_disabled" translatable="false">Disabled</string>
+    <!-- Do not translate. Used for diagnostic screens, precise translation is not necessary -->
+    <string name="wifi_state_enabling" translatable="false">Enabling</string>
+    <!-- Do not translate. Used for diagnostic screens, precise translation is not necessary -->
+    <string name="wifi_state_enabled" translatable="false">Enabled</string>
+    <!-- Do not translate. Used for diagnostic screens, precise translation is not necessary -->
+    <string name="wifi_state_unknown" translatable="false">Unknown</string>
+    <string name="radioInfo_unknown">Unknown</string>
+
+</resources>
